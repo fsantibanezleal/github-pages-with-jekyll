@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boring Post
+title: "Boring Post"
 date: 2020-11-14
 ---
 
